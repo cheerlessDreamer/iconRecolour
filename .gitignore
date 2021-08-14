@@ -1,4 +1,5 @@
 *.svg
+lists.py
 /png
 
 # Byte-compiled / optimized / DLL files
