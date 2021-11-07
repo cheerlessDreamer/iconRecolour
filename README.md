@@ -4,6 +4,7 @@ A small program that takes SVG files, then exports PNG files in various sizes an
 ### Usage
 
 You can supply an additional 'Colour to Replace' argument using a hex colour format, such as:
+
 -$ python3 iconGenerator.py #BADA55
 
 ### Installation
